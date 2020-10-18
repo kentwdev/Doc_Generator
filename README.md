@@ -1,4 +1,4 @@
-Live DEMO: 
+Live DEMO: [Document_Denerator](https://github.com/facebook/create-react-app).
 
 
 ## Project local Setup 
@@ -27,4 +27,4 @@ Second one: go into the server directory and ```run nodemon index.js```
 
 
 ## Credits:
-https://www.linkedin.com/in/adrian-hajdin-44040a158/
+[Create React App](https://github.com/facebook/create-react-app).
