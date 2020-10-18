@@ -6,7 +6,7 @@ Live DEMO:
 ## Having trouble setiting up read:
 https://microsoft.github.io/react-native-windows/docs/getting-started
 
-######
+# Installation:
 1. Create a new directory
 ```mkdir DocGenerator```
 
