@@ -27,4 +27,4 @@ Second one: go into the server directory and ```run nodemon index.js```
 
 
 ## Credits:
-<script src="https://gist.github.com/adrianhajdin/ca4b094f65d244edba20a83db8d1da30.js"></script>
+https://www.linkedin.com/in/adrian-hajdin-44040a158/
